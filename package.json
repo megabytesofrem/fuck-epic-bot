@@ -1,0 +1,15 @@
+{
+  "name": "fuck-epic-bot",
+  "version": "1.0.0",
+  "description": "A bot that replies to positive epic posts with the truth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "lodash": "^4.17.15"
+  }
+}
